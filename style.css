@@ -1,0 +1,45 @@
+body {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    width: 592px;
+    margin: 0px auto 72px;
+  
+}
+
+span, a{
+    color: #FF9900;
+}
+
+p, strong{
+    color: #7D7987;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+h1 {
+    font-size: 49px;
+    line-height: 56px;
+    margin-bottom: 32px;
+}
+
+img {
+    margin-bottom: 72px;
+}
+
+footer a {
+    margin-right: 28px;
+}
+
+#line {
+    width: 568px;
+    height: 0px;
+    border: 1px #ECEFF2 solid;
+    margin: 0 auto 8px;
+
+}
+
+#balls {
+    position: fixed;
+    bottom: 1px;
+    right: 0px;
+}
